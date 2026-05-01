@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
-
 import numpy as np
 otp = np.random.randint(1000, 9999)
 while True:
@@ -22,13 +16,8 @@ while True:
         print("Invalid otp! please enter correct otp")
 
 
-# In[ ]:
 
 
-
-
-
-# In[ ]:
 
 
 
